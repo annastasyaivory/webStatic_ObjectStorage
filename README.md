@@ -1,0 +1,1 @@
+# webStatic_ObjectStorage
